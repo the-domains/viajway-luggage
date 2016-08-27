@@ -1,14 +1,15 @@
 ---
-datePublished: '2016-08-27T06:46:35.139Z'
+datePublished: '2016-08-27T06:59:21.343Z'
 sourcePath: >-
   _posts/2016-08-23-trolleymate-x316-rolling-backpack-with-removable-handle-and.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-27T06:46:34.597Z'
+dateModified: '2016-08-27T06:59:20.478Z'
 title: TrolleyMate X316 Rolling Backpack with Removable Handle and Wheels
-publisher: {}
+publisher:
+  name: Viajway.com
 description: >-
   Who needs a backpack? Everyone! Even if you are not a person who’d love to go
   hiking, you are a person who travel from time to time and you surely need a
@@ -23,7 +24,7 @@ url: trolleymate-x316-rolling-backpack-with-removable-handle-and/index.html
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a119de91-ffd3-4848-9b82-ff19081b000f.png)
+![Wheeled Backpack](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a119de91-ffd3-4848-9b82-ff19081b000f.png)
 
 # **TrolleyMate X316 Rolling Backpack with Removable Handle and Wheels**
 
