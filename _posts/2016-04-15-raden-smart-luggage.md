@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-26T23:46:29.074Z'
+datePublished: '2016-08-27T06:44:10.700Z'
 sourcePath: _posts/2016-04-15-raden-smart-luggage.md
 inFeed: true
 authors: []
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-26T23:46:28.483Z'
+dateModified: '2016-08-27T06:44:10.072Z'
 title: VIAJWAY Wheeled Backpack
 app_links: []
 publisher: {}
@@ -27,7 +27,7 @@ description: >-
   hiking, you are a person who travel from time to time and you surely need a
   good backpack. Each and every one of us needs a backpack every now and then.
   Emilio Estevez once said “There is a part of me that still wants to go out and
-  grab a backpack.” 
+  grab a backpack.”
 inLanguage: en
 inNav: false
 starred: false
