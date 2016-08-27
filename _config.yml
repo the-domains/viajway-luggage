@@ -19,5 +19,8 @@ navigation:
   - name: Grand Teton
     id: c9d12ca3-8946-4697-9018-98e740a57579
     type: content
+  - name: Cooling off
+    id: e13c3d37-dfe1-4caa-aed5-7d2a29fa3dde
+    type: content
 title: A LUGGAGE COMPANY
 description: 'Spinners, Backpacks, Straps, Carry on...'
