@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-27T06:44:10.700Z'
+datePublished: '2016-08-27T06:45:33.268Z'
 sourcePath: _posts/2016-04-15-raden-smart-luggage.md
 inFeed: true
 authors: []
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-27T06:44:10.072Z'
+dateModified: '2016-08-27T06:45:32.750Z'
 title: VIAJWAY Wheeled Backpack
 app_links: []
 publisher: {}
