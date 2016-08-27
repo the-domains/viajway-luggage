@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-27T06:41:49.310Z'
+datePublished: '2016-08-27T06:46:35.139Z'
 sourcePath: >-
   _posts/2016-08-23-trolleymate-x316-rolling-backpack-with-removable-handle-and.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T23:48:50.500Z'
+dateModified: '2016-08-27T06:46:34.597Z'
 title: TrolleyMate X316 Rolling Backpack with Removable Handle and Wheels
 publisher: {}
 description: >-
