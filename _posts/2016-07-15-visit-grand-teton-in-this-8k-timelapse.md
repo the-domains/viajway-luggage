@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-08-26T23:27:08.977Z'
+datePublished: '2016-08-26T23:38:02.082Z'
 sourcePath: _posts/2016-07-15-visit-grand-teton-in-this-8k-timelapse.md
 inFeed: true
-isBasedOnUrl: 'http://petapixel.com/2016/07/15/visit-grand-teton-8k-timelapse/'
-hasPage: false
+hasPage: true
 keywords:
   - teton
   - parks
@@ -17,7 +16,7 @@ keywords:
   - 500-square-mile
 related: []
 author: []
-dateModified: '2016-08-26T23:27:08.452Z'
+dateModified: '2016-08-26T23:38:01.630Z'
 title: Visit Grand Teton in this 8K Timelapse
 app_links: []
 publisher:
@@ -34,6 +33,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: visit-grand-teton-in-this-8k-timelapse/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
