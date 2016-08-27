@@ -1,4 +1,3 @@
-layout_spectrum: 0.6871557901613414
 typography_spectrum: 0.37639598664827645
 color:
   brandStrength: 0.47459772881120443
@@ -6,9 +5,11 @@ color:
   saturation: 0.5000893319956958
   rhythmicContrast: 0.3853316081222147
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+layout_spectrum: 0.6871557901613414
 name: Viajway Luggage
+title: A LUGGAGE COMPANY
