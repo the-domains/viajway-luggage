@@ -13,9 +13,6 @@ color:
 layout_spectrum: 0.6871557901613414
 name: Viajway Luggage
 navigation:
-  - name: TrolleyMate X316
-    id: fa6289f4-cf32-4d87-9e7e-f8c77474118e
-    type: content
   - name: Grand Teton
     id: c9d12ca3-8946-4697-9018-98e740a57579
     type: content
