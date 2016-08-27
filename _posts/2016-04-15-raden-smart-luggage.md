@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-08-26T23:32:49.454Z'
+datePublished: '2016-08-26T23:36:35.585Z'
 sourcePath: _posts/2016-04-15-raden-smart-luggage.md
 inFeed: true
-isBasedOnUrl: 'http://www.coolhunting.com/travel/raden-smart-luggage-travel-tech'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - raden
   - luggage
@@ -19,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-26T23:32:48.963Z'
+dateModified: '2016-08-26T23:36:35.123Z'
 title: VIAJWAY Wheeled Backpack
 app_links: []
 publisher: {}
@@ -30,6 +29,7 @@ description: >-
 inLanguage: en
 inNav: false
 starred: false
+url: viajway-wheeled-backpack/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
