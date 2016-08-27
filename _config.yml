@@ -1,3 +1,4 @@
+layout_spectrum: 0.6871557901613414
 typography_spectrum: 0.37639598664827645
 color:
   brandStrength: 0.47459772881120443
@@ -10,17 +11,4 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-layout_spectrum: 0.6871557901613414
 name: Viajway Luggage
-navigation:
-  - name: Grand Teton
-    id: c9d12ca3-8946-4697-9018-98e740a57579
-    type: content
-  - name: Cooling off
-    id: e13c3d37-dfe1-4caa-aed5-7d2a29fa3dde
-    type: content
-  - name: TrolleyMate X316
-    id: 0f9cfc0f-49b2-4680-81b3-c98ef0aaec7e
-    type: content
-title: VIAJWAY LUGGAGE
-description: 'Spinners, Backpacks, Straps, Carry on...'
